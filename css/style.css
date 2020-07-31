@@ -100,8 +100,7 @@ ul, li {
 .header__title-bg {
   margin-top: 90px;
   background-color: #eee;
-  padding-bottom: 10px; 
-  padding-top: 10px;  
+  padding: 10px 15px;
 }
 
 .about {
@@ -701,6 +700,10 @@ h1 {
   width: 14px;
   height: 15px;
   top: 29px;
+}
+
+.contact__list-item {
+	margin: 5px 0;
 }
 
 .contact__list-item span {
